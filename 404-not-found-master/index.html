@@ -3,28 +3,39 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scalee=5"
+    />
     <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="devchallenges.png" />
     <title>404 Page Not Found</title>
   </head>
   <body>
-    <div class="total">
-      <div class="container-top"><p class="top-left">404 Not Found</p></div>
-      <div class="container">
-        <div class="container-img">
-          <img src="Scarecrow.png" alt="Girl in a jacket" />
+    <header>
+      <h1>404 not found</h1>
+    </header>
+    <main>
+      <div class="flex">
+        <div class="wrapper-img">
+          <img src="Scarecrow.png" alt="Scarecrow" />
         </div>
-        <div class="container-text">
-          <div><p class="side-heading">I have bad news for you</p></div>
-          <div>
-            <p class="content">
-              The page you are looking for might be removed or is temporarily
-              unavailable
-            </p>
-          </div>
-          <div><button class="btn">Back to homepage</button></div>
+        <div class="content">
+          <h2 class="content-title">I have bad news for you</h2>
+          <p class="content-text">
+            The page you are looking for might be removed or is temporarily
+            unavailable
+          </p>
+          <button class="content-btn">back to homepage</button>
         </div>
       </div>
-    </div>
+    </main>
+    <footer>
+      <p>
+        created by
+        <a href="https://github.com/rishimish" target="_blank">@rishimish</a> -
+        devchallenges.io
+      </p>
+    </footer>
   </body>
 </html>
