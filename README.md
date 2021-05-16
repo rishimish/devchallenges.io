@@ -36,8 +36,9 @@
 
 ## Overview
 
-![screenshot]("images/Screenshot-desktop.png")
-![screenshot]("images/Screenshot-mobile.png")
+![Screenshot-desktop](https://user-images.githubusercontent.com/42747614/118406679-70e1d800-b69a-11eb-9920-e3dfa4041bff.png)
+
+![Screenshot-mobile](https://user-images.githubusercontent.com/42747614/118406677-6fb0ab00-b69a-11eb-9dcc-c6e5515393b8.png)
 
 <!-- ### Built With -->
 
@@ -63,7 +64,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-<!-- - Website [your-website.com](https://{your-web-site-link}) -->
+<!-- - Website [your-website.com](https://{your-web-site-link}) -->!
 
 - GitHub [@rishimish](https://github.com/rishimish)
 - Twitter [@rishabhmishrabu](https://twitter.com/rishabhmishrabu)
