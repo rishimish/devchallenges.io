@@ -36,8 +36,8 @@
 
 ## Overview
 
-![screenshot]("images/Screenshot-desktop.png")
-![screenshot]("images/Screenshot-mobile.png")
+![screenshot]("https://github.com/rishimish/devchallenges.io/blob/rishabh/images/Screenshot-desktop.png")
+![screenshot]("https://github.com/rishimish/devchallenges.io/blob/rishabh/images/Screenshot-mobile.png")
 
 <!-- ### Built With -->
 
